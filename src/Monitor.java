@@ -9,6 +9,7 @@ public class Monitor<i>
 		//If there's only 1 philosopher, then we need 2 chopsticks.
 		if(piNumberOfPhilosophers==1){
 			chopsticks=new boolean[piNumberOfPhilosophers+1];
+			System.out.println("only one");
 		}
 		//If there's more than 1 philosopher, then we need the appropriate amount of chopsticks.
 		else{
@@ -35,11 +36,14 @@ public class Monitor<i>
 	 */
 	public synchronized void pickUp(final int piTID) throws InterruptedException
 	{
-		//System.out.println("PICKUP");
+
 		//Case for only 1 philosopher
 		if(chopsticks.length==1){
+
 			//Right chopstick = true
+			System.out.println("Picked up right chopsticks"+piTID);
 			chopsticks[piTID]=true;
+			System.out.println("Picked up left chopsticks"+piTID);
 			//Left chopstick = true
 			chopsticks[piTID-1]=true;
 			//Philosopher may pickup as 2 of the chopsticks are available.
@@ -54,9 +58,9 @@ public class Monitor<i>
 				}
 				//If both chopsticks are free, then the philosopher can pick up the 2 chopsticks
 				if (!(chopsticks[piTID] || chopsticks[piTID-1])) {
-					//Right chopstick = True
+					System.out.println("Picked up right chopsticks"+piTID);
 					chopsticks[piTID] = true;
-					//Left chopstick = true;
+					System.out.println("Picked up left chopsticks"+piTID);
 					chopsticks[piTID - 1] = true;
 				}
 			}
@@ -66,6 +70,8 @@ public class Monitor<i>
 					wait();
 				}
 				if(!(chopsticks[0]&&chopsticks[piTID-1])){
+					System.out.println("Picked up right chopsticks"+piTID);
+					System.out.println("Picked up left chopsticks"+piTID);
 					chopsticks[0]=true;
 					chopsticks[piTID-1]=true;
 				}
@@ -82,12 +88,15 @@ public class Monitor<i>
 	{
 		// Case for 1 philosopher , puts down both chopsticks. Making both left and right available.
 		if (chopsticks.length == 1) {
+
 			chopsticks[piTID] = false;
 			chopsticks[piTID-1] = false;
 		}
 		else {
 			// If more than one philosopher, checks if the ID is not the same as the number of sticks
 			if(chopsticks.length!=piTID) {
+				System.out.println("Put down right chopsticks "+piTID);
+				System.out.println("Picked up left chopsticks "+piTID);
 				chopsticks[piTID] = false;
 				chopsticks[piTID-1] = false;
 			}
