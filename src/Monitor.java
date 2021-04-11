@@ -113,9 +113,21 @@ public class Monitor<i>
 	 * Only one philopher at a time is allowed to philosophy
 	 * (while she is not eating).
 	 */
-	public synchronized void requestTalk()
+	public synchronized void requestTalk(final int piTID) throws InterruptedException
 	{
-		// ...
+		
+		if(chopsticks.length == 1) {
+			isTalking = true;
+		}
+		else {
+			if(isTalking == false && chopsticks[piTID] == false && chopsticks[piTID-1] == false) {
+				isTalking = true;
+			}
+			else {
+				wait();
+			}
+		}
+		notifyAll();
 	}
 
 	/**

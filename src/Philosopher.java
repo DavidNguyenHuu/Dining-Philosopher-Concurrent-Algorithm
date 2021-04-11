@@ -123,7 +123,13 @@ public class Philosopher extends BaseThread
 			{
 				// Some monitor ops down here...
 				System.out.println("Saying something useful DEBUG");
-				DiningPhilosophers.soMonitor.requestTalk();
+				try {
+					DiningPhilosophers.soMonitor.requestTalk(getTID());
+				}
+				catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+				
 				talk();
 				DiningPhilosophers.soMonitor.endTalk();
 				// ...
