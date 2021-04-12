@@ -116,21 +116,12 @@ public class Monitor<i>
 	public synchronized void requestTalk(final int piTID) throws InterruptedException
 	{
 		
-		if(chopsticks.length == 1) {
-			isTalking = true;
-		}
-		else {
-			if(isTalking == false && chopsticks.length != piTID && chopsticks[piTID] == false && chopsticks[piTID-1] == false) {
-				isTalking = true;
-			}
-			else if(isTalking == false && chopsticks[0] == false && chopsticks[piTID-1] == false) {
-				isTalking = true;
-			}
-			else {
+		if (chopsticks.length!=1){
+			while(isTalking==true){
 				wait();
 			}
+			isTalking=true;
 		}
-		notifyAll();
 	}
 
 	/**
