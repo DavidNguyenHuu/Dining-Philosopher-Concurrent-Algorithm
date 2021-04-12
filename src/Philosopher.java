@@ -122,7 +122,6 @@ public class Philosopher extends BaseThread
 			if((int)(Math.random()*2)==0) //Task 1: 1/2 the time the philosopher might say something useful.
 			{
 				// Some monitor ops down here...
-				System.out.println("Saying something useful DEBUG");
 				try {
 					DiningPhilosophers.soMonitor.requestTalk(getTID());
 				}
