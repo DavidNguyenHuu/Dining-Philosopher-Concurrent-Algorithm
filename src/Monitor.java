@@ -120,7 +120,10 @@ public class Monitor<i>
 			isTalking = true;
 		}
 		else {
-			if(isTalking == false && chopsticks[piTID] == false && chopsticks[piTID-1] == false) {
+			if(isTalking == false && chopsticks.length != piTID && chopsticks[piTID] == false && chopsticks[piTID-1] == false) {
+				isTalking = true;
+			}
+			else if(isTalking == false && chopsticks[0] == false && chopsticks[piTID-1] == false) {
 				isTalking = true;
 			}
 			else {
