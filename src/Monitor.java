@@ -4,6 +4,7 @@ public class Monitor<i>
 	private static boolean isTalking=false;
 
 	public Monitor(int piNumberOfPhilosophers) //Done
+	
 	{
 		// TODO: set appropriate number of chopsticks based on the # of philosophers
 		//If there's only 1 philosopher, then we need 2 chopsticks.

@@ -1,0 +1,1168 @@
+Chopstick 1 = false
+Chopstick 2 = false
+Chopstick 3 = false
+3 philosopher(s) came in for a dinner.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 is DONE talking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Philosopher 1 is DONE thinking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 2 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE eating.
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 is DONE talking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 is DONE talking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+All philosophers have left. System terminates normally.
+======================================================================================
+Chopstick 1 = false
+Chopstick 2 = false
+Chopstick 3 = false
+Chopstick 4 = false
+Picked up right chopsticks1
+Picked up left chopsticks1
+4 philosopher(s) came in for a dinner.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 1 has STARTED eating.
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 is DONE talking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 4 is DONE thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 is DONE talking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 3 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 is DONE talking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 is DONE talking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 is DONE talking.
+Philosopher 1 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 4 is DONE thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 is DONE talking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 4 is DONE thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 3 has STARTED thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Philosopher 1 is DONE thinking.
+Philosopher 4 is DONE eating.
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 3 is DONE thinking.
+All philosophers have left. System terminates normally.
+========================================================================================
+Chopstick 1 = false
+Chopstick 2 = false
+Chopstick 3 = false
+Chopstick 4 = false
+Chopstick 5 = false
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Picked up right chopsticks3
+Picked up left chopsticks3
+5 philosopher(s) came in for a dinner.
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 5 is DONE thinking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Philosopher 5 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 5 has STARTED talking.
+Philosopher 5 says: You know, true is false and false is true if you think of it
+Philosopher 5 is DONE talking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE thinking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 5 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 5 has STARTED talking.
+Philosopher 5 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 5 is DONE talking.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 1 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 is DONE talking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 is DONE talking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 is DONE talking.
+Philosopher 5 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 5 has STARTED talking.
+Philosopher 5 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 5 is DONE talking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Picked up right chopsticks1
+Philosopher 2 has STARTED thinking.
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 is DONE talking.
+Philosopher 4 is DONE thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 is DONE talking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 is DONE talking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 is DONE talking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Philosopher 5 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 5 has STARTED talking.
+Philosopher 5 says: If thee cannot speak, thee must be silent
+Philosopher 5 is DONE talking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 is DONE talking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 4 is DONE thinking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Philosopher 5 is DONE thinking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 is DONE talking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 4 has STARTED talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 is DONE talking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 is DONE talking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Picked up right chopsticks4
+Picked up left chopsticks4
+Philosopher 4 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 4 is DONE eating.
+Put down right chopsticks 4
+Picked up left chopsticks 4
+Philosopher 4 has STARTED thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 4 is DONE thinking.
+Philosopher 2 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 2 has STARTED talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 is DONE talking.
+Philosopher 3 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 3 has STARTED talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 is DONE talking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 5 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 3 is DONE thinking.
+Picked up right chopsticks3
+Picked up left chopsticks3
+Philosopher 3 has STARTED eating.
+Philosopher 3 is DONE eating.
+Put down right chopsticks 3
+Picked up left chopsticks 3
+Philosopher 3 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 is DONE talking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 3 is DONE thinking.
+Philosopher 2 is DONE thinking.
+Philosopher 5 is DONE thinking.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Picked up right chopsticks2
+Picked up left chopsticks2
+Philosopher 2 has STARTED eating.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Philosopher 2 is DONE eating.
+Put down right chopsticks 2
+Picked up left chopsticks 2
+Philosopher 2 has STARTED thinking.
+Philosopher 2 is DONE thinking.
+Philosopher 5 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 5 has STARTED talking.
+Philosopher 5 says: You know, true is false and false is true if you think of it
+Philosopher 5 is DONE talking.
+Picked up right chopsticks5
+Picked up left chopsticks5
+Philosopher 5 has STARTED eating.
+Philosopher 1 is DONE thinking.
+Philosopher 5 is DONE eating.
+Philosopher 5 has STARTED thinking.
+Picked up right chopsticks1
+Picked up left chopsticks1
+Philosopher 1 has STARTED eating.
+Philosopher 1 is DONE eating.
+Put down right chopsticks 1
+Picked up left chopsticks 1
+Philosopher 1 has STARTED thinking.
+Philosopher 1 is DONE thinking.
+Saying something useful DEBUG
+Philosopher 1 has STARTED talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 is DONE talking.
+Philosopher 5 is DONE thinking.
+All philosophers have left. System terminates normally.

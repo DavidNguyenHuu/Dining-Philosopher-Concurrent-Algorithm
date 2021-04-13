@@ -4,6 +4,7 @@
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
  */
+
 public class DiningPhilosophers
 {
 	/*
@@ -46,7 +47,35 @@ public class DiningPhilosophers
 			 * Should be settable from the command line
 			 * or the default if no arguments supplied.
 			 */
+			
 			int iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
+			
+			try {
+				if(argv.length == 0) {
+					iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
+				}
+				else if(argv != null) {
+					iPhilosophers = Integer.parseInt(argv[0]);
+				}
+				if(iPhilosophers < 0) {
+					System.out.println("% java DiningPhilosophers -7.a\r\n"
+							+ "\"-7.a\" is not a positive decimal integer\r\n"
+							+ "Usage: java DiningPhilosophers [NUMBER_OF_PHILOSOPHERS]\r\n"
+							+ "%");
+					System.exit(0);
+				}
+				
+				
+				
+			}
+			catch (NumberFormatException e) {
+				System.err.println("Not an integer!!");
+				System.exit(0);
+			}
+				
+				
+			
+			
 
 			// Make the monitor aware of how many philosophers there are
 			soMonitor = new Monitor(iPhilosophers);
