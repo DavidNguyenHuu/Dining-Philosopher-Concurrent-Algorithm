@@ -59,9 +59,9 @@ public class Monitor<i>
 				}
 				//If both chopsticks are free, then the philosopher can pick up the 2 chopsticks
 				if (!(chopsticks[piTID] || chopsticks[piTID-1])) {
-					System.out.println("Picked up right chopsticks"+piTID);
+					System.out.println("Picked up right chopsticks by Philosopher # "+piTID);
 					chopsticks[piTID] = true;
-					System.out.println("Picked up left chopsticks"+piTID);
+					System.out.println("Picked up left chopsticks by Philosopher # "+piTID);
 					chopsticks[piTID - 1] = true;
 				}
 			}
@@ -71,8 +71,8 @@ public class Monitor<i>
 					wait();
 				}
 				if(!(chopsticks[0]&&chopsticks[piTID-1])){
-					System.out.println("Picked up right chopsticks"+piTID);
-					System.out.println("Picked up left chopsticks"+piTID);
+					System.out.println("Picked up right chopsticks by Philosopher # "+piTID);
+					System.out.println("Picked up left chopsticks by Philosopher # "+piTID);
 					chopsticks[0]=true;
 					chopsticks[piTID-1]=true;
 				}
@@ -96,12 +96,14 @@ public class Monitor<i>
 		else {
 			// If more than one philosopher, checks if the ID is not the same as the number of sticks
 			if(chopsticks.length!=piTID) {
-				System.out.println("Put down right chopsticks "+piTID);
-				System.out.println("Picked up left chopsticks "+piTID);
+				System.out.println("Put down right chopsticks by Philosopher # "+piTID);
+				System.out.println("Put down left chopsticks by Philosopher # "+piTID);
 				chopsticks[piTID] = false;
 				chopsticks[piTID-1] = false;
 			}
 			else {
+				System.out.println("Put down right chopsticks by Philosopher # "+piTID);
+				System.out.println("Put down left chopsticks by Philosopher # "+piTID);
 				chopsticks[0] = false;
 				chopsticks[piTID-1] = false;
 			}
@@ -116,8 +118,8 @@ public class Monitor<i>
 	 */
 	public synchronized void requestTalk(final int piTID) throws InterruptedException
 	{
-		
 		if (chopsticks.length!=1){
+			//While one philosopher is talking, the others must wait
 			while(isTalking==true){
 				wait();
 			}
