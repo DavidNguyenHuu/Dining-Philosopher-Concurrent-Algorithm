@@ -1,4 +1,4 @@
-# Dining Philosopher
+# Dining Philosopher Problem
 
 Description from wikipedia:
 
